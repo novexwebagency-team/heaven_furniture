@@ -1,0 +1,90 @@
+{
+  "navigation": [
+    {
+      "label": "The Collection",
+      "href": "#collection"
+    },
+    {
+      "label": "Bespoke",
+      "href": "#bespoke"
+    },
+    {
+      "label": "Our Craft",
+      "href": "#craft"
+    },
+    {
+      "label": "Our Story",
+      "href": "#story"
+    }
+  ],
+  "hero": {
+    "eyebrow": "HEAVEN FURNITURE MART · CHITTAGONG",
+    "title": {
+      "beforeAccent": "Where Your",
+      "accentOne": "Space",
+      "middle": "Finds Its",
+      "accentTwo": "Character."
+    },
+    "description": "From timeless living spaces to one-of-a-kind pieces, we design and craft furniture around your space, your taste, and the way you live. With premium materials, skilled craftsmanship, and a showroom in Agrabad, every piece is made to feel truly yours.",
+    "cta": "Request a Free Consultation"
+  },
+  "visit": {
+    "eyebrow": "EXPLORE HEAVEN FURNITURE",
+    "title": {
+      "main": "Pay us a",
+      "accent": "Visit"
+    },
+    "address": "Agrabad Access Rd, Chattogram, Bangladesh",
+    "hours": "Mon - Sat: 10:00 AM - 8:00 PM | Sun: 11:00 AM - 6:00 PM",
+    "phone": "+880 1960-481983",
+    "email": "heavenfurnituremart@gmail.com",
+    "mapUrl": "https://maps.google.com/?q=Heaven+Furniture+Mart+Agrabad+Access+Rd+Chattogram",
+    "image": "/showroom.webp",
+    "features": [
+      "Custom Furniture Design",
+      "Architectural Wood & Fabric Selection",
+      "In-House Interior Consultation",
+      "Premium Modern & Classic Living"
+    ]
+  },
+
+  "header": {
+    "titlePart1": "Made for",
+    "stylishWord": "Spaces",
+    "titlePart2": "worth remembering",
+    "description": "A look at some of the furniture we've recently crafted, curated, and delivered for distinctive homes and spaces. Each piece is designed around its setting, character, and the people who live with it."
+  },
+  "items": [
+    {
+      "id": "1",
+      "title": "the necessary backup personality",
+      "linkText": "acquaint now >",
+      "image": "/chair1.webp"
+    },
+    {
+      "id": "2",
+      "title": "the small witness of late-night decisions",
+      "linkText": "acquaint now >",
+      "image": "/chair2.jfif"
+    },
+    {
+      "id": "3",
+      "title": "little armchair with trust issues",
+      "linkText": "acquaint now >",
+      "image": "/chair3.webp"
+    },
+    {
+      "id": "4",
+      "title": "the silent observer of family drama",
+      "linkText": "acquaint now >",
+      "image": "/sofa4.avif"
+    },
+    {
+      "id": "5",
+      "title": "minimalist wooden lounge piece",
+      "linkText": "acquaint now >",
+      "image": "/sofa5.jfif"
+    }
+  ]
+
+}
