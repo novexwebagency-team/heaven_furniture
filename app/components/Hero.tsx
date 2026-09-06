@@ -136,7 +136,7 @@ export default function Hero() {
           <div className="hero-gsap-text mt-8">
             <Link
               href="#consultation"
-              className="relative z-10 inline-flex w-full items-center justify-center rounded-[10px] bg-[#315653] px-5 py-3 text-[14px] font-medium text-white transition-all duration-300 hover:-translate-y-0.5 hover:bg-[#214442] active:translate-y-0"
+              className="relative z-10 inline-flex w-full items-center justify-center rounded-[10px] bg-[#221A15] px-5 py-3 text-[14px] font-medium text-white transition-all duration-300 hover:-translate-y-0.5 hover:bg-[#221A15]/90 active:translate-y-0"
             >
               <span>Consultation</span>
               <span className="ml-2 text-base transition-transform duration-300 group-hover:translate-x-1">
@@ -200,7 +200,7 @@ export default function Hero() {
           <div className="hero-gsap-text mt-6 sm:mt-7">
             <Link
               href="#consultation"
-              className="inline-flex items-center rounded-[8px] bg-[#315653] px-5 py-3 text-[13px] font-medium text-white transition-all duration-300 hover:-translate-y-0.5 hover:bg-[#214442] sm:px-6 sm:py-3.5 sm:text-sm"
+              className="inline-flex text-[#221A15] items-center rounded-[8px] bg-amber-100/90  px-5 py-3 text-[13px] font-bold transition-all duration-300 hover:-translate-y-0.5 hover:bg-amber-100/80 sm:px-6 sm:py-3.5 sm:text-sm"
             >
               <span>
                 {info.hero.cta || "Request a Free Consultation"}

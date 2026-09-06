@@ -74,7 +74,7 @@ export default function FurnitureCollection() {
 
   return (
     <section
-      className={`${manrope.className} ${manrope.variable} ${allura.variable} bg-[#0c0c0b] text-white w-full overflow-hidden select-none`}
+      className={`${manrope.className} ${manrope.variable} ${allura.variable} bg-[#221A15] text-white w-full overflow-hidden select-none`}
     >
       {/* Top Content Header */}
       <div className="max-w-7xl mx-auto px-6 pt-16 pb-12 grid grid-cols-1 md:grid-cols-12 gap-8 items-end">

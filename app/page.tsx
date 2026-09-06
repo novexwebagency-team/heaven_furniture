@@ -1,6 +1,7 @@
 
 
 import ExploreCollection from "./components/ExploreCollection";
+import Footer from "./components/Footer";
 import FurnitureCollection from "./components/FurnitureCollection";
 import Hero from "./components/Hero";
 import ModernFurniture from "./components/ModernFurniture";
@@ -16,6 +17,7 @@ export default function Home() {
    <FurnitureCollection />
    <ModernFurniture />
    <VisitUs />
+   <Footer />
    </>
   );
 }

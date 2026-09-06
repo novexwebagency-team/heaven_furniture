@@ -270,20 +270,6 @@ export default function ExploreCollection() {
                           {sub.name}
                         </span>
 
-                        {/* DESKTOP FLOATING WHATSAPP BADGE */}
-                        {hoveredSubCat?.id === sub.id && (
-                          <div
-                            className="pointer-events-none absolute hidden rounded-xl bg-[#25D366] px-3 py-1.5 text-[13px] font-bold text-white shadow-xl backdrop-blur-md lg:flex items-center gap-1.5 whitespace-nowrap transition-transform duration-75"
-                            style={{
-                              left: `${hoveredSubCat.x}px`,
-                              top: `${hoveredSubCat.y - 35}px`,
-                              transform: "translate(-50%, -50%)",
-                            }}
-                          >
-                            <span>Contact us <br/> on WhatsApp</span>
-                            <span>💬</span>
-                          </div>
-                        )}
                       </div>
                     ))}
                   </div>
